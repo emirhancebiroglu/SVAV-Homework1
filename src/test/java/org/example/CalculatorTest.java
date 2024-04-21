@@ -3,7 +3,7 @@
     Student name: Emirhan Cebiroğlu
     Course name: Software Verification and Validation
     Homework Info: Homework1 / 2023-2024 Spring Semester
-    Github Repository: https://github.com/emirhancebiroglu/SVAV-Homework
+    Github Repository: https://github.com/emirhancebiroglu/SVAV-Homework1
 * */
 
 
